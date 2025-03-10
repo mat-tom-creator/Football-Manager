@@ -1,0 +1,11 @@
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\FootballManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\FootballManager.Core.AssemblyInfoInputs.cache
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\FootballManager.Core.AssemblyInfo.cs
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\FootballManager.Core.csproj.CoreCompileInputs.cache
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\bin\Debug\net8.0\FootballManager.Core.deps.json
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\bin\Debug\net8.0\FootballManager.Core.dll
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\bin\Debug\net8.0\FootballManager.Core.pdb
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\FootballManager.Core.dll
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\refint\FootballManager.Core.dll
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\FootballManager.Core.pdb
+D:\College\Design Patterns\patterns\FootballManager\FootballManager.Core\obj\Debug\net8.0\ref\FootballManager.Core.dll
